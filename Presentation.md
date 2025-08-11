@@ -11,23 +11,14 @@ We aim to transform Airflow scheduling services from a static behaviour to a dyn
 OODA loop, Observe/Orient/Decide/Act,  transforms static, reactive systems into dynamic entities capable of autonomous and adaptive behavior.
 ## Observe :  
 The system actively collects data from various sources inputs, sensor feeds, and internal knowledge repositories, and builds a real-time picture of the environment. This proactive sensing capability represents the backbone of Agentic AI, it allows to go beyond waiting for prompts.
-## Orient :
+## Orient : 
+In this step,  AI agents will analyze the observed data to understand what is happening. They will compare against known patterns, baseline metrics, and other contextual information.AI ensures that its understanding of the situation is both deep and current.
+
 ## Decide :
+In decide step, we choose a course of action based on analysis and interpretation during the orientation step. It's important to make a decision aligned with our goals and values and the information we gathered during the observation phase. This step is crucial for Agentic AI, it enables the system to simulate various scenarios and select the most effective, ethical, and contextually appropriate decision.
 ## Act :
+Consists of implementing decisions of the former step, it could be content generation, interfacing with third system or even performing a complex tasks.
+
+The system then monitors the outcome, using feedback to refine future cycles and continuously improve its performance.
 
 
-
-2. Orient
-
-Once the data is collected, Agentic AI interprets and contextualizes the information. Through advanced context analysis, the AI identifies key patterns and nuances, ensuring that its understanding of the situation is both deep and current.
-
-3. Decide
-
-Armed with comprehensive insights, the system evaluates potential actions using tools like decision matrices and risk assessment protocols. This phase is crucial for Agentic AI, as it enables the system to simulate various scenarios and select the most effective, ethical, and contextually appropriate response.
-
-4. Act
-
-Finally, Agentic AI executes the chosen action—be it generating content, interfacing with other systems, or performing complex tasks. The system then monitors the outcome, using feedback to refine future cycles and continuously improve its performance.
-
-
-Agent : An AI agent is an individual entity designed to perceive its environment, reason based on input from the user, and act autonomously to achieve a desired result. AI agents can be as simple as an AI assistant connected to internal systems or as complex as self-driving workflows that operate autonomously. 
