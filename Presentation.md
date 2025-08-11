@@ -9,10 +9,11 @@ We aim to transform Airflow scheduling services from a static behaviour to a dyn
 
 # OODA loop
 OODA loop, Observe/Orient/Decide/Act,  transforms static, reactive systems into dynamic entities capable of autonomous and adaptive behavior.
-## Observe :  The system actively collects data from various sources inputs, sensor feeds, and internal knowledge repositories, and builds a real-time picture of the environment. This proactive sensing capability represents the backbone of Agentic AI, it allows to go beyond waiting for prompts.
-Orient :
-Decide :
-Act :
+## Observe :  
+The system actively collects data from various sources inputs, sensor feeds, and internal knowledge repositories, and builds a real-time picture of the environment. This proactive sensing capability represents the backbone of Agentic AI, it allows to go beyond waiting for prompts.
+## Orient :
+## Decide :
+## Act :
 
 
 
