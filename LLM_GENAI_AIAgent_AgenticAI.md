@@ -62,3 +62,6 @@ Goal initiation and contextual understanding
 -Outcome evaluation and deciding next steps
 
 Agentic AI is self-directed intelligence. It mirrors aspects of human decision-making: setting objectives, monitoring progress, adapting to change, and learning from outcomes.
+
+![1755577273840](https://github.com/user-attachments/assets/8d8c158f-e403-4d9f-b7b6-33542663def2)
+
